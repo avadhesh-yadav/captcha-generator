@@ -1,0 +1,30 @@
+    h1 {
+        color: royalblue;
+        text-decoration: black underline;
+    }
+    
+    #createcaptcha {
+        background-color: silver;
+        color: black;
+    }
+    
+    #inputcaptcha {
+        color: rgba(192, 192, 192, 0.808);
+        background-color: black;
+    }
+    
+    #refresh {
+        background-color: grey;
+    }
+    
+    div {
+        border: 2px black solid;
+        width: 500px;
+        height: 300px;
+        padding-top: 100px;
+        background-color: #1895;
+    }
+    
+    body {
+        background-color: #1895;
+    }

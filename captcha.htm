@@ -1,0 +1,27 @@
+<html>
+
+<head>
+    <title>Captcha</title>
+    <script type="text/javascript" src="captcha.js"></script>
+    <link rel="stylesheet" href="captcha.css">
+
+</head>
+
+<body onload="captchaGenerator()">
+
+    <center>
+        <br><br>
+        <h1> Are you a Human?</h1>
+        <br><br>
+        <div>
+            captcha* : <input type="text" id="createCaptcha" disabled>
+            <input type="button" value="refresh" id="refresh" onclick="captchaGenerator()">
+            <br><br> enter captcha:<input type="text" placeholder="enter captacha here" id="inputcaptcha">
+            <br><br>
+            <input type="submit" value="check" onclick="alert(isvalid())">
+        </div>
+    </center>
+
+</body>
+
+</html>
