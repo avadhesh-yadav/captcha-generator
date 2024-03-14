@@ -1,5 +1,5 @@
 ## captcha-generator
-###Created using 
--Html
--Css
--Javascript
+<ul>Created using</ul>
+<li>HTML</li>
+<li>CSS</li>
+<li>Javascript</li>
