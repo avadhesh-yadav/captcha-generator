@@ -1,2 +1,5 @@
-# captcha-generator
-captcha generator: using Hml,Css,Javascript
+## captcha-generator
+###Created using 
+-Html
+-Css
+-Javascript
